@@ -1,5 +1,5 @@
 # CTTF-Website-Redesign
-Website redesign for http://childrenoftibet.org with full wordpress back-end and front-end implementation. XAMPP, apache, PHP 7.4, CSS3, HTML5, MYSQL, Bootstrap 4.0, Javascript, JQuary, React(Popper js)
+Website redesign for http://childrenoftibet.org with full wordpress back-end and front-end implementation. XAMPP, apache, PHP 7.4, CSS3, HTML5, PHPMYSQL, Bootstrap 4.0, Javascript, JQuary, React(Popper js)
 
 The website supports the wordpress Codex and theme customizations through theme support function. This theme supports embedded widgets, automated menu navigation updates, automated comment functionality is implemented but not used, tile tags, post thumbnails, and version control pulls. It also supports customizable logo, favicon, bg color, link color, button color, and hover button color features. 
 
